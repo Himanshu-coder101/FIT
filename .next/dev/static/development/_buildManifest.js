@@ -1,7 +1,4 @@
 self.__BUILD_MANIFEST = {
-  "/": [
-    "static/chunks/pages/index.js"
-  ],
   "/_error": [
     "static/chunks/pages/_error.js"
   ],
@@ -44,6 +41,7 @@ self.__BUILD_MANIFEST = {
     "/",
     "/_app",
     "/_error",
+    "/api/ai-refine-plan",
     "/api/plan",
     "/dashboard",
     "/day/[day]",

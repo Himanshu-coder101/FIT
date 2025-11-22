@@ -8,7 +8,7 @@ __turbopack_load_page_chunks__("/onboard/equipment", [
   "static/chunks/node_modules_react-dom_cjs_react-dom_development_2b5e0eb3.js",
   "static/chunks/node_modules_react-dom_8a8085df._.js",
   "static/chunks/node_modules_416396d1._.js",
-  "static/chunks/[root-of-the-server]__6d0849aa._.js",
+  "static/chunks/[root-of-the-server]__a40a1df4._.js",
   "static/chunks/pages_onboard_equipment_2da965e7.js",
-  "static/chunks/turbopack-pages_onboard_equipment_ee02002e.js"
+  "static/chunks/turbopack-pages_onboard_equipment_65044961.js"
 ])

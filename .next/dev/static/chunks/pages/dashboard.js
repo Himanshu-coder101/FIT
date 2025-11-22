@@ -8,7 +8,7 @@ __turbopack_load_page_chunks__("/dashboard", [
   "static/chunks/node_modules_react-dom_cjs_react-dom_development_2b5e0eb3.js",
   "static/chunks/node_modules_react-dom_8a8085df._.js",
   "static/chunks/node_modules_416396d1._.js",
-  "static/chunks/[root-of-the-server]__308e0cea._.js",
+  "static/chunks/[root-of-the-server]__4da6f562._.js",
   "static/chunks/pages_dashboard_2da965e7._.js",
-  "static/chunks/turbopack-pages_dashboard_bfff9b4d._.js"
+  "static/chunks/turbopack-pages_dashboard_adde9413._.js"
 ])
